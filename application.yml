@@ -6,11 +6,6 @@ spring:
         - org.springframework.data.cassandra.core.CassandraAdminOperations
         - org.springframework.data.cassandra.repository.CassandraRepository
 
-  data:
-      mongodb:
-          host: 10.60.16.81
-          port: 27017
-          database: horizon-claim-db
 
 logging:
   level.: info
