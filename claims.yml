@@ -9,4 +9,4 @@ spring:
           database: horizon-claim-db
 
 logging:
-  level.: debug
+  level.: info
